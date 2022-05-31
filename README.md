@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Faiyaz
+- 👀 I’m interested in DevOps and Software Developments 
+- 🌱 I’m currently learning DevOps project to do myself
+- 💞️ I’m looking to collaborate on it if you wish to.
+- 📫 Connect here
