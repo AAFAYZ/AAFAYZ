@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faiyaz
-- 👀 I’m interested in DevOps and Software Developments 
-- 🌱 I’m currently learning DSA from scratch to advanced practicing in leetcode
+- 👀 I’m currently working and interested as an DevOps Engineer
+- 🌱 Still learning Devops more in depth and exploring open source codes to contribute to devops problems
 - 💞️ I’m looking to collaborate on it if you wish to.
 - 📫 Connect here -> 
